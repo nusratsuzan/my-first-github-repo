@@ -1,0 +1,14 @@
+h2{
+
+color: aqua;
+ 
+background-color: blueviolet;
+
+}
+p{
+color: blue;
+background-color: rgb(206, 131, 131);
+}
+p::first-letter{
+    font-size: 3em;
+}
